@@ -14,7 +14,8 @@ steps:
   inputs:
     versionSpec: '10.x'
   displayName: 'Install Node.js'
-   node.js test
+   
+   node name:  test
    displayName: 'node.js install, build, and test'
 
 
